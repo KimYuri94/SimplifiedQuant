@@ -35,8 +35,8 @@ The tool is ideal for traders, investors, and data enthusiasts who want to integ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/KimYuri94/SimplifiedQuant.git
+   cd SimplifiedQuant
    ```
 
 2. Install the required dependencies:
