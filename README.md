@@ -26,8 +26,8 @@ The tool is ideal for traders, investors, and data enthusiasts who want to integ
   - `textblob`
   - `python-dotenv`
 - Valid API keys for:
-  - **Polygon.io** (Free API available, sign up (https://polygon.io/)).
-  - **NewsAPI** (Free API available, sign up (https://newsapi.org/).
+  - **Polygon.io** (Free API available, sign up here https://polygon.io/
+  - **NewsAPI** (Free API available, sign up here https://newsapi.org/
 
 ---
 
@@ -113,25 +113,8 @@ Date: 2024-11-26, Open: 46.10, High: 47.00, Close: 46.30, RSI: 54.90, RSI MA: 54
 
 ---
 
-## Contributing
-
-If you wish to contribute:
-1. Fork this repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add feature-name'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a Pull Request.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.
-
----
-
 ## Support
 
-For issues or questions, please open an [issue on GitHub](https://github.com/your-repo-name/issues) or contact `your-email@example.com`.
+For issues or questions, please open an [issue on GitHub](https://github.com/your-repo-name/issues) or contact `fhrml1004@korea.ac.kr`.
 
 Happy analyzing! 🚀
