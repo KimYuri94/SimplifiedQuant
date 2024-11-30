@@ -26,8 +26,8 @@ The tool is ideal for traders, investors, and data enthusiasts who want to integ
   - `textblob`
   - `python-dotenv`
 - Valid API keys for:
-  - **Polygon.io**
-  - **NewsAPI**
+  - **Polygon.io** (Free API available, sign up (https://polygon.io/)).
+  - **NewsAPI** (Free API available, sign up (https://newsapi.org/).
 
 ---
 
