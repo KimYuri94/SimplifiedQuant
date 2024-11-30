@@ -41,7 +41,7 @@ The tool is ideal for traders, investors, and data enthusiasts who want to integ
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install python-dotenv pandas pandas-ta textblob requests
    ```
 
 3. Set up environment variables:
