@@ -16,6 +16,20 @@ The tool is ideal for traders, investors, and data enthusiasts who want to integ
 - Securely manage API keys using environment variables.
 
 ---
+## Hardware Requirements:
+- CPU: Dual-core processor, 1.6GHz or higher
+- RAM: 4GB minimum (8GB recommended)
+- Storage: 1GB free space for Python installation and libraries
+- Internet Connection: Stable connection required for API calls
+
+## Software Requirements:
+- Operating System:
+- Windows 10 or later
+- macOS 10.13 or later
+- Linux (any modern distribution)
+
+
+
 
 ## Requirements
 - Python 3.7 or higher
@@ -28,6 +42,12 @@ The tool is ideal for traders, investors, and data enthusiasts who want to integ
 - Valid API keys for:
   - **Polygon.io** (Free API available, sign up here https://polygon.io/
   - **NewsAPI** (Free API available, sign up here https://newsapi.org/
+
+The script makes API calls with 1-second intervals between requests
+Processing time depends on:
+Number of tickers
+Internet connection speed
+API response times
 
 ---
 
